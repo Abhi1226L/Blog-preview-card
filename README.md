@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/Abhi1226L/Blog-preview-card)
+- Live Site URL: [Live site URL here](https://abhi1226l.github.io/Blog-preview-card/)
 
 ## My process
 
