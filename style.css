@@ -27,12 +27,12 @@ section{
     border-radius:1rem;
 }
 
-#header-image{
+#image{
     width:100%;
     border-radius:1rem;
 }
 
-#first_para{
+#first-para{
     background-color:hsl(47, 88%, 63%);
     width:20%;
     padding:7px 7px 7px 10px;
@@ -45,7 +45,7 @@ section{
     font-family:Figtree;
 }
 
-#second_para{
+#second-para{
     font-weight:500;
     font-size:0.85rem;
 }
@@ -54,13 +54,17 @@ h2{
   font-weight:800;
 }
 
-#third_para{
+h2:hover{
+  color:yellowgreen;
+}
+
+#third-para{
     color:hsl(0, 0%, 50%);
     position:relative;
     bottom:11px;
 }
 
-.footer{
+.icon-section{
     display:flex;
     column-gap:10px;
     margin-bottom:10px;
@@ -71,7 +75,7 @@ h4{
   bottom:13px;
 }
 
-#footer-image{
+#icon{
     height:11%;
     width:11%;
 }
